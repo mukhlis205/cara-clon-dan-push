@@ -1,0 +1,29 @@
+CARA CLON DAN PUSH PROJECT
+
+ALAT YG DIGUNAKAN : 1.LAPTOP / KOMPUTER
+                                           2.KONEKSI
+                                           3.BROWSER
+
+CARA CLON
+
+1.BUAT FILE BARU DI LAPTOP/KOMPUTER
+2.FILE YG SUDAH DI BUAT DI KLIK KANAN DAN KLIK GIT BASH HERE 
+3.JIKA SUDAH DI KLIK GIT BAS AKAN KELUAR SEBUAH CMD
+3.DI KOTAK TERSEBUT TULISKAN GIT CLON DAN ALAMAT YANG AKAN DI CLON CONTOH (https://github.com/rizalawaludin/restoran.git)
+4.SELESAI
+
+PUSH PROJECT
+
+1.MASUK AKUN GITHUB
+2.JIKA TIDAK PUNYA AKUN BUAT LAH AKUN TERLEBIH DAHULU
+3.BUAT NEW REPOSITORY
+4.TULISKAN NAMA PROJECT YANG AKAN DI UPLOAD
+5.KLIK KANAN PADA PROJECT YANG AKAN DI KIRIM DAN KLIK GIT BASH HERE
+6.JIKA SUDAH DI KLIK FIT BASH AKAN KELAUR SEBUAH CMD
+7.TULIS KAN DI CMD TERSEBUT : 1.GIT INIT 
+                                                              2.GIT ADD *
+                                                              3.GIT COMMIT -M "UNTUK KOMENTAR"
+                                                              4.GIT REMOTE ADD ORIGIN ( NAMA URL)CONTOH https://github.com/rizalawaludin/restoran.git
+                                                              5.GIT PUSH -U ORIGIN MASTER
+8. SETELAH BEBERAPA  DETIK REFRESH
+9.SELESAI
